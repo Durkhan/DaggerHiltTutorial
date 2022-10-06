@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerHiltTutorial</string>
+    <string name="hilt_injectt">This is stricng</string>
+</resources>
